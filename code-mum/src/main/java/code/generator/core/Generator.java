@@ -15,10 +15,8 @@ import org.mybatis.generator.config.xml.ConfigurationParser;
 import org.mybatis.generator.internal.DefaultShellCallback;
 
 import com.google.common.collect.Lists;
-import com.google.common.collect.Sets;
 
 import code.generator.core.constant.DBType;
-import code.generator.core.constant.MapperType;
 import code.generator.core.dto.MappingInfo;
 import code.generator.core.dto.Request;
 
